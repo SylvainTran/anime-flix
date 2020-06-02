@@ -1,0 +1,4 @@
+information: Ensoleille
+temperature: 21 C
+desc: Ensoleill&eacute; avec passages nuageux. Maximum 17.
+vent: 20 km/h
