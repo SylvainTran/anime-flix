@@ -1,0 +1,19 @@
+/**
+    Auteur: Sylvain Tran
+    But du programme: CSS correspondant a l'énoncé (villes.php)
+    Date: 30-05-2020
+*/
+#main__table--weather-data {
+    border: 0.5px solid grey;   
+    text-align: center;
+    margin: auto;
+}
+
+#main__table--weather-data td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+#main__table--last-row {
+    text-align: center;
+}
