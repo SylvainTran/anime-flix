@@ -3,6 +3,10 @@
     But du programme: Generic
     Date: 30-05-2020
 */
+body {
+    font-family: 'Questrial', sans-serif;
+}
+
 h1 {
     color: blue;
     text-align: center;
@@ -14,7 +18,7 @@ h2 {
 }
 
 h3 {
-    color: green;
+    color: blue;
     text-align: center;
     font-style: italic;
 }
