@@ -1,5 +1,0 @@
-information: Ensoleille
-temperature: 41 C
-humidite: 45
-desc: Sans espoir; avec passages nuageux. Maximum 40.
-vent: 50 km/h
