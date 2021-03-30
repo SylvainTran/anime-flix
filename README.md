@@ -1,2 +1,3 @@
-# IFT1147
-php
+# Animeflix streaming
+- PHP, MySQL
+- Multipage and SPA demo project
